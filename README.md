@@ -5,10 +5,9 @@ BANK APPLICATION API
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
+- 
 - [API Routes](#api-routes)
-- [Configuration](#configuration)
-- [License](#license)
+  
 
 ## Installation
 
@@ -30,7 +29,7 @@ BANK APPLICATION API
 	// npm run dev
 
 
-USAGE
+
 
 
 
